@@ -1,0 +1,5 @@
+psutil==5.9.5
+python-socketio==5.8.0
+watchdog==3.0.0
+requests==2.31.0
+pywin32==306 
